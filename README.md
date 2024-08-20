@@ -7,8 +7,8 @@ All planets conjunctions for 100 years (less 1 deg.)
 3. `$python conjuctions.py planet1 planet2`
 
 ### Examples
-`$python conjuctions.py Mars Venus`
-`$python conjuctions.py Jupiter Saturn`
+`$python conjuctions.py Mars Venus` <br>
+`$python conjuctions.py Jupiter Saturn` <br>
 `$python conjuctions.py Neptune Mercury`
 
 ### Save info to file
